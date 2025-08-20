@@ -48,6 +48,8 @@
 ### Extras
 - 💙 Fan del **FC Barcelona**.
 - 📖 Me gusta la **lectura**; saga favorita: **Harry Potter**.
+- 🎶 Me **fascina la música**.  
+  👉 [Mi perfil de Spotify](https://open.spotify.com/user/luis_esteban_colautti?si=f0cbe3b33afe49b5)
 - 🏋️ Interés en **fuerza/hipertrofia** y hábitos sostenibles.
 
 > Gracias por pasar. 🙂
