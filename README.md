@@ -10,7 +10,7 @@
 
 ## Sobre mí
 - 💻 **Stack principal:** Python, C/C++, C#, SQL (SQL Server), LaTeX, HTML/CSS, Git.
-- 🧠 **Áreas que disfruto:** desarrollo de software en **Python** y **C++** — estructuras de datos y algoritmos, POO y programación genérica, diseño de APIs/CLI, parsers, redes/HTTP, concurrencia (threads/async), optimización y *profiling*, pruebas (unitarias/integración), *clean code* y *refactoring*, arquitectura de proyectos.
+- 🧠 **Áreas que disfruto:** desarrollo de software en **Python** y **C++**.
 
 ## Proyectos destacados
 - 🎮 **Pepe Pepinillo (C++/SFML)** — videojuego POO (semestre 2).  
