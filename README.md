@@ -1,4 +1,4 @@
-# 👋 Quihubo, soy Esteban
+# 😸 Esteban
 
 > Estudiante de Ingeniería en Ciencias Computacionales (CETYS Universidad, Tijuana, MX).
 
