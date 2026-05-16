@@ -10,7 +10,7 @@ Estudiante de Ingeniería en Ciencias Computacionales en CETYS Universidad, Camp
 
 ## Perfil
 
-Soy estudiante de Ingeniería en Ciencias Computacionales con interés en el desarrollo de software, estructuras de datos, bases de datos y sistemas computacionales. Tengo experiencia académica trabajando con Python, C/C++, C#, SQL Server, Git y herramientas de documentación técnica como LaTeX.
+Soy estudiante de Ingeniería en Ciencias Computacionales con interés en el desarrollo de software, estructuras de datos, bases de datos y sistemas computacionales. Tengo experiencia académica trabajando con Python, C/C++, C# y SQL Server.
 
 Me interesa construir soluciones claras, funcionales y bien estructuradas, cuidando tanto la lógica interna del sistema como la organización del código y la documentación.
 
@@ -23,7 +23,6 @@ Me interesa construir soluciones claras, funcionales y bien estructuradas, cuida
 - Bases de datos relacionales
 - Desarrollo backend básico
 - Computación científica
-- Documentación técnica
 - Sistemas digitales y lógica computacional
 
 ---
