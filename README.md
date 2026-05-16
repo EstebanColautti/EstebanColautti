@@ -1,125 +1,125 @@
 # Esteban Colautti
 
-Estudiante de Ingeniería en Ciencias Computacionales en CETYS Universidad, Campus Tijuana.
+Computer Science Engineering student at CETYS Universidad, Tijuana Campus.
 
-![Role](https://img.shields.io/badge/Estudiante-Computer%20Science%20Engineering-111827?style=flat)
+![Role](https://img.shields.io/badge/Student-Computer%20Science%20Engineering-111827?style=flat)
 ![Campus](https://img.shields.io/badge/CETYS-Tijuana-222222?style=flat)
-![Languages](https://img.shields.io/badge/Español%20%7C%20English-Bilingual-0a0a0a?style=flat)
+![Languages](https://img.shields.io/badge/Spanish%20%7C%20English-Bilingual-0a0a0a?style=flat)
 
 ---
 
-## Perfil
+## Profile
 
-Soy estudiante de Ingeniería en Ciencias Computacionales con interés en el desarrollo de software, estructuras de datos, bases de datos y sistemas computacionales. Tengo experiencia académica trabajando con Python, C/C++, C# y SQL Server.
+I am a Computer Science Engineering student with an interest in software development, data structures, databases, and computer systems. I have academic experience working with Python, C/C++, C#, and SQL Server.
 
-Me interesa construir soluciones claras, funcionales y bien estructuradas, cuidando tanto la lógica interna del sistema como la organización del código y la documentación.
-
----
-
-## Áreas de interés
-
-- Desarrollo de software en Python y C++
-- Programación orientada a objetos
-- Bases de datos relacionales
-- Desarrollo backend básico
-- Computación científica
-- Sistemas digitales y lógica computacional
+I am interested in building clear, functional, and well-structured solutions, with attention to internal system logic, code organization, and documentation.
 
 ---
 
-## Proyectos destacados
+## Areas of Interest
+
+- Software development in Python and C++
+- Object-oriented programming
+- Relational databases
+- Basic backend development
+- Scientific computing
+- Digital systems and computational logic
+
+---
+
+## Featured Projects
 
 ### Pepe Pepinillo — C++ / SFML
 
-Videojuego desarrollado como proyecto académico aplicando principios de programación orientada a objetos.
+Video game developed as an academic project applying object-oriented programming principles.
 
-**Enfoque principal:**
+**Main focus:**
 
-- Diseño de clases claras y reutilizables
-- Manejo de eventos gráficos
-- Organización de entidades del juego
-- Arquitectura simple y mantenible
+- Clear and reusable class design
+- Graphical event handling
+- Game entity organization
+- Simple and maintainable architecture
 
 ---
 
-### Gestor Hotelero — SQL Server
+### Hotel Management System — SQL Server
 
-Sistema de base de datos relacional orientado a la gestión de reservaciones, huéspedes y servicios hoteleros.
+Relational database system focused on managing hotel reservations, guests, and services.
 
-**Enfoque principal:**
+**Main focus:**
 
-- Modelo entidad-relación
-- Creación de datos de prueba
+- Entity-relationship modeling
+- Test data creation
 - Stored procedures
 - Triggers
-- Validación de consistencia entre tablas
+- Data consistency validation across tables
 
 ---
 
 ### HTTP Message Parser & Mini-Server — C#
 
-Proyecto enfocado en el procesamiento, validación y manejo de mensajes HTTP.
+Project focused on processing, validating, and handling HTTP messages.
 
-**Enfoque principal:**
+**Main focus:**
 
-- Separación de responsabilidades
-- Validación de entradas
-- Manejo de casos borde
-- Pruebas funcionales
-
----
-
-### ALU & Unidad de Control — CircuitVerse
-
-Diseño y documentación de una unidad aritmético-lógica junto con una unidad de control básica.
-
-**Enfoque principal:**
-
-- Operaciones binarias
-- Control de flujo
-- Tablas de verdad
-- Trazas de señales
-- Documentación del comportamiento lógico
+- Separation of responsibilities
+- Input validation
+- Edge case handling
+- Functional testing
 
 ---
 
-## Tecnologías y herramientas
+### ALU & Control Unit — CircuitVerse
 
-### Lenguajes
+Design and documentation of an arithmetic logic unit and a basic control unit.
+
+**Main focus:**
+
+- Binary operations
+- Control flow
+- Truth tables
+- Signal traces
+- Logical behavior documentation
+
+---
+
+## Technologies and Tools
+
+### Programming Languages
 
 `Python` · `C/C++` · `C#` · `SQL` · `R` · `HTML/CSS`
 
-### Bases de datos
+### Databases
 
-`SQL Server` · `T-SQL` · `Stored Procedures` · `Triggers` · `Índices`
+`SQL Server` · `T-SQL` · `Stored Procedures` · `Triggers` · `Indexes`
 
-### Computación científica
+### Scientific Computing
 
 `NumPy` · `Matplotlib`
 
-### Herramientas de desarrollo
+### Development Tools
 
 `Git` · `GitHub` · `Visual Studio Code` · `LaTeX` · `Overleaf`
 
-### Hardware y lógica digital
+### Hardware and Digital Logic
 
 `CircuitVerse`
 
-### Desarrollo web
+### Web Development
 
-`HTML semántico` · `CSS responsive` · `Optimización básica`
-
----
-
-## Información adicional
-
-Además de mi formación en computación, tengo interés en la lectura, la música, el deporte y el aprendizaje continuo. Me gusta trabajar en proyectos que combinen lógica, estructura y claridad técnica.
+`Semantic HTML` · `Responsive CSS` · `Basic optimization`
 
 ---
 
-## Contacto
+## Additional Information
+
+Beyond my academic background in computing, I am interested in reading, music, sports, and continuous learning. I enjoy working on projects that combine logic, structure, and technical clarity.
+
+---
+
+## Contact
 
 - Email: [estebancolautti@gmail.com](mailto:estebancolautti@gmail.com)
 - Instagram: [@estebancolautti](https://instagram.com/estebancolautti)
-- Spotify: [Perfil de Spotify](https://open.spotify.com/user/luis_esteban_colautti?si=f0cbe3b33afe49b5)
-- Zona horaria: America/Tijuana
+- Spotify: [Spotify Profile](https://open.spotify.com/user/luis_esteban_colautti?si=f0cbe3b33afe49b5)
+- Time zone: America/Tijuana
