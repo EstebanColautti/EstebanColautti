@@ -12,6 +12,9 @@ C client/server project using TCP sockets, a custom RPC implementation, serializ
 ### [NFL Tournament Services](https://github.com/AngelRamirez31/NFL_Nube)
 Team REST API built with ASP.NET Core and PostgreSQL, with a layered structure, automated tests, and load testing.
 
+### [Twootter](https://github.com/EstebanColautti/Twootter)
+Small social posting web app built with ASP.NET Core MVC, Identity, Entity Framework Core, and SQLite.
+
 ### [Pepe Pepinillo](https://github.com/EstebanColautti/PEPE-PEPINILLO)
 2D platform game developed in C++ with SFML as an academic team project.
 
