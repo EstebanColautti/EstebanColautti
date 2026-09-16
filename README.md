@@ -2,15 +2,22 @@
 
 Computer Science Engineering student at CETYS Universidad in Tijuana, Mexico.
 
-Most of my GitHub is made up of university and team projects. I mainly work with C/C++, Python, C#, and SQL, and I use Git/GitHub regularly.
+I mostly work with C++, C, C#, and Python. My GitHub is mainly made up of university and team projects involving backend development, systems programming, networking, and game development.
 
-I've also worked with ASP.NET Core, PostgreSQL, SQL Server, SQLite, Entity Framework Core, React, SFML, and Pygame depending on the project.
+## Selected Projects
 
-## Selected projects
+### [RPC Squid Game](https://github.com/EstebanColautti/RPC-Squid-Game)
+C client/server project using TCP sockets, a custom RPC implementation, serialization, threads, and mutexes.
 
-- [RPC Squid Game](https://github.com/EstebanColautti/RPC-Squid-Game) — C client/server project using TCP sockets, RPC, serialization, and threads.
-- [NFL Tournament Services](https://github.com/AngelRamirez31/NFL_Nube) — Team REST API built with ASP.NET Core and PostgreSQL.
-- [Pepe Pepinillo](https://github.com/EstebanColautti/PEPE-PEPINILLO) — C++/SFML game developed as an academic project.
+### [NFL Tournament Services](https://github.com/AngelRamirez31/NFL_Nube)
+Team REST API built with ASP.NET Core and PostgreSQL, with a layered structure, automated tests, and load testing.
+
+### [Pepe Pepinillo](https://github.com/EstebanColautti/PEPE-PEPINILLO)
+2D platform game developed in C++ with SFML as an academic team project.
+
+## What I Work With
+
+`C++` · `C` · `C#` · `Python` · `ASP.NET Core` · `Git/GitHub` · `REST APIs` · `Object-Oriented Programming` · `Concurrency`
 
 ## Contact
 
