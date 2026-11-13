@@ -2,9 +2,12 @@
 
 Computer Science Engineering student at CETYS Universidad in Tijuana, Mexico.
 
-I mostly work with C++, C, C#, and Python. My GitHub is mainly made up of university and team projects involving backend development, systems programming, networking, and game development.
+I work on university and team projects involving backend development, systems programming, networking, mobile apps, and game development.
 
 ## Selected Projects
+
+### [Rutas Tijuana](https://github.com/EstebanColautti/RutasTijuana)
+SwiftUI prototype for exploring public transit routes and stops in Tijuana.
 
 ### [RPC Squid Game](https://github.com/EstebanColautti/RPC-Squid-Game)
 C client/server project using TCP sockets, a custom RPC implementation, serialization, threads, and mutexes.
@@ -20,7 +23,7 @@ Small social posting web app built with ASP.NET Core MVC, Identity, Entity Frame
 
 ## What I Work With
 
-`C++` · `C` · `C#` · `Python` · `ASP.NET Core` · `Git/GitHub` · `REST APIs` · `Object-Oriented Programming` · `Concurrency`
+`C++` · `C` · `C#` · `Python` · `Swift` · `SwiftUI` · `ASP.NET Core` · `Git/GitHub` · `REST APIs` · `Concurrency`
 
 ## Contact
 
