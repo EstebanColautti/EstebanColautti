@@ -6,6 +6,9 @@ I work on university and team projects involving backend development, systems pr
 
 ## Selected Projects
 
+### [Streets-H (HackFox 2026)](https://github.com/AngelRamirez31/HackFox2026)
+Team web platform for accessible route planning and community reporting of urban barriers, built with React and ASP.NET Core.
+
 ### [Rutas Tijuana](https://github.com/EstebanColautti/RutasTijuana)
 SwiftUI prototype for exploring public transit routes and stops in Tijuana.
 
